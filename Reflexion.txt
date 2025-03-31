@@ -1,0 +1,13 @@
+¿Qué aprendí?
+
+Durante esta actividad, aprendí a configurar un entorno de pruebas en un proyecto Kotlin Multiplatform. Específicamente, comprendí cómo estructurar correctamente los conjuntos de fuentes (sourceSets) en build.gradle.kts, agregar dependencias para pruebas y organizar los archivos en los directorios adecuados.
+También me costó un poco al inicio debido a los errores que surgieron con las versiones y configuraciones del archivo build.gradle.kts. Sin embargo, al investigar y hacer ajustes, logré solucionar los problemas y entender mejor cómo funcionan las dependencias y configuraciones en Kotlin Multiplatform.
+Por último, también reforcé la importancia de una estructura de archivos bien organizada dentro de un proyecto para que las pruebas se ejecuten sin problemas.
+
+¿Qué valor tienen las pruebas en el ámbito profesional?
+
+las pruebas son clave en el desarrollo de software porque ayudan a que el código sea más estable, confiable y fácil de mantener.
+Detectar errores temprano ahorra tiempo y esfuerzo en arreglos futuros.
+Hacen que el código sea más fácil de modificar
+Las pruebas automatizadas permiten detectar errores rápido y facilitan lanzamientos más seguros.
+Sirven como guía para entender el código
